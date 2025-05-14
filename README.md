@@ -97,16 +97,14 @@ Las contribuciones son bienvenidas. Para contribuir:
 4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
 5. Abra un Pull Request
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 👥 Autores
-
-- Nombre del Autor - [GitHub](https://github.com/tu-usuario)
+- Anderson Francisco Diaz Ciro
+- Karen Eliana Muñoz Maya
+- Carlos Felipe Suarez Rodriguez
 
 ## 🙏 Agradecimientos
 
 - A la comunidad de procesamiento de imágenes
 - A todos los contribuidores del proyecto
 - A los gatos que prestaron sus rostros para el desarrollo
+- Al Profesor Jhon Erick por su guía y apoyo y su 5.0.
